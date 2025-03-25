@@ -17,3 +17,21 @@ mainEl.innerHTML = `<h1> DOM Manipulation </h1>`
 mainEl.classList.add('flex-ctr')
 
 
+// Part 2
+
+// let topmenuEl = document.getElementById
+
+// topmenuEl.style.height = 100%
+
+// topmenuEl.style.backgroundColor = `var(--topmenuEl-)`;
+
+
+menulinks.forEach((Link) => {
+let newAnchor = document.createElement('a')
+
+newAnchor.setAttribute('href', )
+});
+
+
+
+
